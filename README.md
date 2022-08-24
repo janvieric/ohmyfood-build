@@ -1,1 +1,1 @@
-# ohmyfood-public
+# ohmyfood
